@@ -1,4 +1,3 @@
-import react from 'react'
 import express from 'express'
 
 import {getPosts, createPost, updatePost, deletePost, likePost} from '../controller/posts.js';
